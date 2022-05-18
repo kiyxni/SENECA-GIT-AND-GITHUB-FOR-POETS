@@ -1,2 +1,2 @@
-# Seneca-on-Friendship
-This is a repo on Seneca's view of Friendship
+# Seneca on Friendship, and other Stoics.
+Random quotes, in order to learn Git and GitHub requests.
